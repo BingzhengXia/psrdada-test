@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/writer_test.dir/src/writertest.c.o -o writer_test   -L/workspace/psrdadaput/lib  -Wl,-rpath,/workspace/psrdadaput/lib -lpsrdada 

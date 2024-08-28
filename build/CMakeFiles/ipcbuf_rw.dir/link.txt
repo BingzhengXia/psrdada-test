@@ -1,0 +1,1 @@
+/usr/bin/cc -g -D_DEBUG CMakeFiles/ipcbuf_rw.dir/src/ipcbuf_rw.c.o -o ipcbuf_rw   -L/workspace/psrdadaput/lib  -Wl,-rpath,/workspace/psrdadaput/lib -lpsrdada 

@@ -1,0 +1,3 @@
+/workspace/psrdada_test/build/CMakeFiles/ipcbuf_manage.dir
+/workspace/psrdada_test/build/CMakeFiles/edit_cache.dir
+/workspace/psrdada_test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++14 -O3 -DNDEBUG CMakeFiles/ipcbuf_manage.dir/src/ipcbuf_manage.cpp.o -o ipcbuf_manage   -L/workspace/psrdadaput/lib  -Wl,-rpath,/workspace/psrdadaput/lib -lpsrdada 

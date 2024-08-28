@@ -1,0 +1,1 @@
+/usr/bin/cc -g -D_DEBUG CMakeFiles/ipcio_rw.dir/src/ipcio_rw.c.o -o ipcio_rw   -L/workspace/psrdadaput/lib  -Wl,-rpath,/workspace/psrdadaput/lib -lpsrdada 

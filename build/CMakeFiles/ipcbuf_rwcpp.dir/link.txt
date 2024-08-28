@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++14 -g CMakeFiles/ipcbuf_rwcpp.dir/src/ipcbuf_rw.cpp.o -o ipcbuf_rwcpp   -L/workspace/psrdadaput/lib  -Wl,-rpath,/workspace/psrdadaput/lib -lpsrdada 

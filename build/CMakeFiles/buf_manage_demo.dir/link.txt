@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++14 -g CMakeFiles/buf_manage_demo.dir/src/buf_manage_demo.cpp.o -o buf_manage_demo   -L/workspace/psrdadaput/lib 
